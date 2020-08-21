@@ -12,3 +12,5 @@ async function getQuote(){
     }
 
 }
+
+getQuote();
